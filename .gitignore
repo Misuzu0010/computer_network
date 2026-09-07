@@ -1,0 +1,31 @@
+# Visual Studio 与 Visual Studio Code 的本地状态
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+*.opensdf
+*.sdf
+
+# JetBrains IDE 的本地状态
+.idea/
+
+# C++ 与 CMake 构建产物
+build/
+cmake-build-*/
+out/
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# 日志与操作系统元数据
+*.log
+.DS_Store
+Thumbs.db
+Desktop.ini
